@@ -10,12 +10,10 @@ public class BulletController : MonoBehaviour
 
     public int MaxRange { get; set; }
 
-    // Start is called before the first frame update
     private void Start()
     {
     }
 
-    // Update is called once per frame
     private void Update()
     {
         DestroyAfterRange();

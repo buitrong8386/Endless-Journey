@@ -443,7 +443,7 @@ MonoBehaviour:
   wallTile: {fileID: 11400000, guid: 8eef2f54ece25c949b83cb541ba9cd0f, type: 2}
   waterTile: {fileID: 11400000, guid: af53a401e2d28d6449eb660ef5287271, type: 2}
   treeTile: {fileID: 11400000, guid: 3bb11b868956e184b843a780d31cabf9, type: 2}
-  wallSteelTile: {fileID: 0}
+  wallSteelTile: {fileID: 11400000, guid: 59f9af9ac537a1b43ac90ff261b0839b, type: 2}
   emptyTile: {fileID: 0}
 --- !u!4 &1538029696
 Transform:

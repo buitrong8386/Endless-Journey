@@ -14,7 +14,7 @@ public class GenerateMap : MonoBehaviour
     public Tile emptyTile;
     void Start()
     {
-        LoadMap("Assets/Files/Matrix.txt");
+        LoadMap("Assets/Files/Map_1.txt");
     }
     void LoadMap(string filePath)
     {
