@@ -9,8 +9,6 @@
 !README.md
 
 # Bỏ qua một số file trong Assets nếu cần
-Assets/Temp/
-Assets/*.meta
 *.psd
 *.ai
 *.mp3
