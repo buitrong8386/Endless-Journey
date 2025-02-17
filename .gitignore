@@ -1,0 +1,20 @@
+# Bỏ qua tất cả
+*
+
+# Ngoại trừ thư mục Assets và các file cấu hình quan trọng
+!Assets/
+!ProjectSettings/
+!Packages/
+!.gitignore
+!README.md
+
+# Bỏ qua một số file trong Assets nếu cần
+Assets/Temp/
+Assets/*.meta
+*.psd
+*.ai
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.fbx
